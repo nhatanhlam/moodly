@@ -1,0 +1,120 @@
+id,text,scale,branch
+1,"Little interest or pleasure in doing things?",PHQ-9,tệ
+2,"Feeling down, depressed, or hopeless?",PHQ-9,tệ
+3,"Trouble falling or staying asleep, or sleeping too much?",PHQ-9,tệ
+4,"Feeling tired or having little energy?",PHQ-9,tệ
+5,"Poor appetite or overeating?",PHQ-9,tệ
+6,"Feeling bad about yourself—or that you are a failure or have let yourself or your family down?",PHQ-9,tệ
+7,"Trouble concentrating on things, such as reading the newspaper or watching television?",PHQ-9,tệ
+8,"Moving or speaking so slowly that other people could have noticed? Or the opposite—being so fidgety or restless that you have been moving a lot more than usual?",PHQ-9,tệ
+9,"Thoughts that you would be better off dead or of hurting yourself in some way?",PHQ-9,tệ
+10,"Feeling nervous, anxious, or on edge?",GAD-7,cũng ổn
+11,"Not being able to stop or control worrying?",GAD-7,cũng ổn
+12,"Worrying too much about different things?",GAD-7,cũng ổn
+13,"Trouble relaxing?",GAD-7,cũng ổn
+14,"Being so restless that it's hard to sit still?",GAD-7,cũng ổn
+15,"Becoming easily annoyed or irritable?",GAD-7,cũng ổn
+16,"Feeling afraid as if something awful might happen?",GAD-7,cũng ổn
+17,"I found it hard to wind down.",DASS-21,tệ
+18,"I was aware of dryness of my mouth.",DASS-21,tệ
+19,"I couldn't seem to experience any positive feeling at all.",DASS-21,tệ
+20,"I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).",DASS-21,tệ
+21,"I found it difficult to work up the initiative to do things.",DASS-21,tệ
+22,"I tended to over-react to situations.",DASS-21,tệ
+23,"I experienced trembling (eg, in the hands).",DASS-21,tệ
+24,"I felt that I was using a lot of nervous energy.",DASS-21,tệ
+25,"I was worried about situations in which I might panic and make a fool of myself.",DASS-21,tệ
+26,"I felt that I had nothing to look forward to.",DASS-21,tệ
+27,"I found myself getting agitated.",DASS-21,tệ
+28,"I found it difficult to relax.",DASS-21,cũng ổn
+29,"I felt down-hearted and blue.",DASS-21,cũng ổn
+30,"I was intolerant of anything that kept me from getting on with what I was doing.",DASS-21,cũng ổn
+31,"I felt I was close to panic.",DASS-21,cũng ổn
+32,"I was unable to become enthusiastic about anything.",DASS-21,cũng ổn
+33,"I felt I wasn't worth much as a person.",DASS-21,cũng ổn
+34,"I felt that I was rather touchy.",DASS-21,cũng ổn
+35,"I was aware of the action of my heart in the absence of physical exertion (e.g., sense of heart rate increase, heart missing a beat).",DASS-21,cũng ổn
+36,"I felt scared without any good reason.",DASS-21,cũng ổn
+37,"I felt that life was meaningless.",DASS-21,cũng ổn
+38,"I felt sad and depressed.",BDI-II,tệ
+39,"I felt discouraged about the future.",BDI-II,tệ
+40,"I woke up feeling fatigued and had trouble getting out of bed.",BDI-II,tệ
+41,"I felt like a failure.",BDI-II,tệ
+42,"My appetite was poor.",BDI-II,tệ
+43,"I cried more than usual.",BDI-II,tệ
+44,"I felt hopeless about the future.",BDI-II,tệ
+45,"I had thoughts of killing myself, but would not carry them out.",BDI-II,tệ
+46,"I had difficulty making decisions.",BDI-II,tệ
+47,"I felt I was less interested in other people.",BDI-II,tệ
+48,"I felt I had lost weight.",BDI-II,tệ
+49,"I had trouble concentrating.",BDI-II,cũng ổn
+50,"I felt tired for no reason.",BDI-II,cũng ổn
+51,"I felt guilty.",BDI-II,cũng ổn
+52,"I felt life was not worth living.",BDI-II,cũng ổn
+53,"I felt worried.",CES-D,bình thường
+54,"I felt that everything I did was an effort.",CES-D,bình thường
+55,"My sleep was restless.",CES-D,bình thường
+56,"I felt lonely.",CES-D,bình thường
+57,"I had crying spells.",CES-D,bình thường
+58,"I enjoyed life.",CES-D,bình thường
+59,"I felt sad.",CES-D,bình thường
+60,"People were unfriendly.",CES-D,bình thường
+61,"I did not feel like eating; my appetite was poor.",CES-D,tốt
+62,"I thought my life had been a failure.",CES-D,tốt
+63,"I felt fearful.",CES-D,tốt
+64,"I liked myself.",CES-D,tốt
+65,"I felt depressed.",CES-D,tốt
+66,"I felt hopeful about the future.",CES-D,tốt
+67,"I was happy.",WHO-5,bình thường
+68,"I woke up feeling fresh and rested.",WHO-5,bình thường
+69,"My daily life has been filled with things that interest me.",WHO-5,bình thường
+70,"I have felt calm and relaxed.",WHO-5,bình thường
+71,"I have felt cheerful and in good spirits.",WHO-5,bình thường
+72,"In the last month, how often have you been upset because of something that happened unexpectedly?",PSS-10,cũng ổn
+73,"In the last month, how often have you felt unable to control the important things in your life?",PSS-10,cũng ổn
+74,"In the last month, how often have you felt nervous and stressed?",PSS-10,cũng ổn
+75,"In the last month, how often have you felt confident about your ability to handle your personal problems?",PSS-10,cũng ổn
+76,"In the last month, how often have you felt that things were going your way?",PSS-10,cũng ổn
+77,"In the last month, how often have you found that you could not cope with all the things that you had to do?",PSS-10,cũng ổn
+78,"In the last month, how often have you been able to control irritations in your life?",PSS-10,cũng ổn
+79,"In the last month, how often have you felt that you were on top of things?",PSS-10,cũng ổn
+80,"In the last month, how often have you been angered because of things that were outside of your control?",PSS-10,cũng ổn
+81,"In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",PSS-10,cũng ổn
+82,"In the past few weeks, have you wished you were dead?",ASQ,tệ
+83,"In the past few weeks, have you felt that you or your family would be better off if you were dead?",ASQ,tệ
+84,"In the past few weeks, have you been thinking about killing yourself?",ASQ,tệ
+85,"In the past few weeks, have you ever tried to kill yourself?",ASQ,tệ
+86,"During the last 30 days, about how often did you feel tired out for no good reason?",K10,cũng ổn
+87,"During the last 30 days, about how often did you feel nervous?",K10,cũng ổn
+88,"During the last 30 days, about how often did you feel so nervous that nothing could calm you down?",K10,cũng ổn
+89,"During the last 30 days, about how often did you feel hopeless?",K10,cũng ổn
+90,"During the last 30 days, about how often did you feel restless or fidgety?",K10,cũng ổn
+91,"During the last 30 days, about how often did you feel so restless you could not sit still?",K10,cũng ổn
+92,"During the last 30 days, about how often did you feel depressed?",K10,cũng ổn
+93,"During the last 30 days, about how often did you feel that everything was an effort?",K10,cũng ổn
+94,"During the last 30 days, about how often did you feel worthless?",K10,cũng ổn
+95,"During the last 30 days, about how often did you feel so sad that nothing could cheer you up?",K10,cũng ổn
+96,"Have you recently been able to concentrate on whatever you're doing?",GHQ-12,tốt
+97,"Have you recently lost much sleep over worry?",GHQ-12,tốt
+98,"Have you recently felt you could not overcome your difficulties?",GHQ-12,tốt
+99,"Have you recently felt constantly under strain?",GHQ-12,tốt
+100,"Have you recently felt you couldn't face up to your problems?",GHQ-12,tốt
+101,"Have you recently been feeling unhappy and depressed?",GHQ-12,tốt
+102,"Have you recently been losing confidence in yourself?",GHQ-12,tốt
+103,"Have you recently felt that you were playing a useful part in things?",GHQ-12,tốt
+104,"Have you recently felt capable of making decisions about things?",GHQ-12,tốt
+105,"Have you recently felt that you were under stress?",GHQ-12,tốt
+106,"Have you recently been able to enjoy your normal day-to-day activities?",GHQ-12,tốt
+107,"Have you recently thought yourself to be worthless?",GHQ-12,tốt
+108,"Over the last 2 weeks, have you often felt nervous or anxious?",GAD-2,cũng ổn
+109,"Over the last 2 weeks, have you often not been able to stop or control worrying?",GAD-2,cũng ổn
+110,"During the past two weeks, have you often been bothered by feeling down, depressed, or hopeless?",PHQ-2,tệ
+111,"During the past two weeks, have you often been bothered by little interest or pleasure in doing things?",PHQ-2,tệ
+112,"I have felt cheerful and in good spirits.",WHO-5,tốt
+113,"I have felt calm and relaxed.",WHO-5,tốt
+114,"I have felt active and vigorous.",WHO-5,tốt
+115,"I woke up feeling fresh and rested.",WHO-5,tốt
+116,"My daily life has been full of things that interest me.",WHO-5,tốt
+117,"I felt I was useful and needed.",WHO-5,tốt
+118,"I have felt calm and peaceful.",WHO-5,tốt
+119,"I felt loved and supported by others.",WHO-5,tốt
